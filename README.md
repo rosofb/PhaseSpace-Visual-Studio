@@ -1,1 +1,1 @@
-# Phase-Space-Visual-Studio
+# PhaseSpace-Visual-Studio
