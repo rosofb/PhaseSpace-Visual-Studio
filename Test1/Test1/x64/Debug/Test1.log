@@ -1,0 +1,4 @@
+﻿  Test1.cpp
+c:\users\ben\desktop\phasespace capture\programs\test1\test1\test1.cpp(28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ben\desktop\phasespace capture\programs\test1\test1\test1.cpp(20): warning C4101: 'tracker': unreferenced local variable
+  Test1.vcxproj -> C:\Users\Ben\Desktop\PhaseSpace Capture\Programs\Test1\x64\Debug\Test1.exe
